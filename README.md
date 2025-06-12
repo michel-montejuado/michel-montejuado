@@ -1,46 +1,38 @@
-👋 Hi there! I'm Michel, a fullstack software engineer with a knack for turning ideas into robust, user-friendly applications. Whether it's building backend systems, designing sleek interfaces, or tinkering with new frameworks, I thrive on solving challenges and making technology accessible to everyone.
-
-🛠️ My toolbox includes Java, C#, JavaScript, TypeScript, HTML, CSS and SQL. I enjoy switching between these languages and technologies to pick the best tool for the job, and I love seeing how different pieces of the tech puzzle fit together. From scalable APIs to interactive frontends, you’ll find me deep in the code, always aiming to make things work better and faster.
-
-🚀 Some of my current passion projects:
-- [socle-commun/simple-picto](https://github.com/socle-commun/simple-picto): Making communication more accessible, one pictogram at a time! This project empowers users with clear, simple visuals to bridge communication gaps.
-- [socle-commun/pick-n-talk](https://github.com/socle-commun/pick-n-talk): Bringing conversations to life with innovative technology, helping users connect and interact in new, engaging ways.
-
-🌱 I’m constantly learning, exploring new stacks, and keeping up with the latest in software development. I believe in writing clean, maintainable code and sharing knowledge within the community.
-
-🎵 Outside of coding, music is my creative playground. I love producing tracks, experimenting with sounds, and collaborating with fellow musicians. Just like in software, I enjoy mixing structure and creativity to craft something memorable.
-
-💡 If you’re passionate about software development or music production, let’s connect! I’m always open to chats, collaborations, or just geeking out about the latest tech and tunes.
-
-Let’s build something amazing—and have a little fun along the way!
-
-## 📈 GitHub Stats
-
-![Michel's GitHub stats](https://github-readme-stats.vercel.app/api?username=michel-montejuado&show_icons=true&theme=radical)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Parfait, je vais intégrer mes suggestions directement dans ton texte initial tout en gardant ton ton chaleureux, accessible et légèrement détendu. Voici la version enrichie :
 
 ---
 
-👋 Salut ! Je m'appelle Michel, je suis ingénieur logiciel fullstack, passionné par la transformation d'idées en applications robustes et intuitives. Que ce soit pour développer des systèmes backend, concevoir des interfaces élégantes ou expérimenter de nouveaux frameworks, j'aime relever les défis et rendre la technologie accessible à tous.
+👋 Salut ! Moi c’est Michel — ingénieur logiciel fullstack et explorateur créatif. J’aime transformer les idées en applications robustes et intuitives, que ce soit côté backend, interface ou bidouillage de nouveaux frameworks. J’aime résoudre des problèmes concrets, avec pour objectif de rendre la technologie un peu plus humaine et accessible.
 
-🛠️ Ma boîte à outils inclut Java, C#, JavaScript, TypeScript, HTML, CSS et SQL. J’aime jongler entre ces langages et technologies pour choisir l’outil le plus adapté à chaque projet. Ce que je préfère, c’est voir comment toutes les pièces du puzzle technologique s’assemblent. Des API évolutives aux interfaces interactives, je plonge dans le code avec l’objectif constant d’optimiser et d’accélérer les choses.
+🛠️ Ma boîte à outils inclut Java, C#, JavaScript, TypeScript, HTML, CSS et SQL. J’aime passer de l’un à l’autre selon les besoins du moment, et je prends plaisir à voir comment chaque pièce du puzzle s’assemble. Que ce soit pour construire des APIs scalables ou des interfaces interactives, je suis souvent plongé dans le code, toujours avec l’envie de rendre les choses plus fluides, plus rapides, et plus claires.
 
-🚀 Quelques-uns de mes projets passion du moment :
+🚀 Quelques-uns de mes projets du moment :
 
-* [socle-commun/simple-picto](https://github.com/socle-commun/simple-picto) : Rendre la communication plus accessible, un pictogramme à la fois ! Ce projet aide les utilisateurs grâce à des visuels clairs et simples pour combler les barrières de communication.
-* [socle-commun/pick-n-talk](https://github.com/socle-commun/pick-n-talk) : Donner vie aux conversations grâce à des technologies innovantes, pour aider les utilisateurs à se connecter et interagir de manière engageante.
+* [socle-commun/simple-picto](https://github.com/socle-commun/simple-picto) : Rendre la communication plus accessible, un pictogramme à la fois. Ce projet propose des visuels simples pour faciliter les échanges, notamment pour les personnes en situation de handicap ou d’apprentissage.
+* [socle-commun/pick-n-talk](https://github.com/socle-commun/pick-n-talk) : Donner vie aux conversations grâce à des technologies interactives — un petit coup de pouce numérique pour se comprendre et se connecter autrement.
 
-🌱 J’apprends en continu, j’explore de nouvelles stacks et je reste à jour sur les dernières tendances du développement logiciel. Je crois en l’écriture d’un code propre et maintenable, et en l’importance du partage de connaissances au sein de la communauté.
+🌱 Je suis en apprentissage permanent : je teste de nouveaux outils, je lis pas mal sur les architectures modernes, et j’essaie de toujours écrire un code propre et maintenable. J’aime aussi partager mes trouvailles, documenter ce que je fais et contribuer à des projets qui ont du sens.
 
-🎵 En dehors du code, la musique est mon terrain de jeu créatif. J’adore produire des morceaux, expérimenter avec les sons et collaborer avec d’autres musiciens. Comme dans le développement, j’aime mélanger structure et créativité pour créer quelque chose de marquant.
+🎵 En dehors du code, la musique est mon terrain de jeu. Je compose, je produis, j’expérimente avec les sons comme je le fais avec les idées. J’aime ce moment où la structure et l’improvisation se rencontrent pour créer quelque chose d’unique — un peu comme quand on code une appli qui fait vraiment mouche.
 
-💡 Passionné par le développement logiciel ou la production musicale ? Discutons ! Je suis toujours partant pour des échanges, des collaborations ou simplement pour parler tech et musique.
+📌 En ce moment :
 
-Construisons quelque chose de génial—et amusons-nous un peu en chemin !
+* Je bosse sur des améliorations d’interface pour *Simple Picto*.
+* Je compose un EP électro autour du thème de la distance (et des machines qui parlent).
+* Je joue avec des outils d’IA créative dans le cadre du projet *Sloth*, un labo d’expériences numériques.
+
+💡 Si tu t'intéresses au développement, à la création musicale ou aux idées un peu hybrides, fais-moi signe ! J’adore discuter, collaborer, ou simplement échanger autour des dernières trouvailles tech ou sonores.
+
+Construisons quelque chose de cool — et prenons le temps d’en profiter en chemin ✨
+
+---
 
 ## 📈 Statistiques GitHub
 
 ![Statistiques GitHub de Michel](https://github-readme-stats.vercel.app/api?username=michel-montejuado\&show_icons=true\&theme=radical)
 
-N’hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions ou des idées de collaboration !
+N'hésite pas à fouiller dans mes dépôts, et si tu veux papoter ou monter un projet ensemble, ma porte est ouverte !
+
+---
+
+Tu veux que je te propose une version encore plus concise (genre *TL;DR style* pour LinkedIn ou autre), ou ça te va comme ça ?
