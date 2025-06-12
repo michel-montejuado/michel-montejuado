@@ -28,7 +28,3 @@ Construisons quelque chose de cool — et prenons le temps d’en profiter en ch
 ![Statistiques GitHub de Michel](https://github-readme-stats.vercel.app/api?username=michel-montejuado\&show_icons=true\&theme=radical)
 
 N'hésite pas à fouiller dans mes dépôts, et si tu veux papoter ou monter un projet ensemble, ma porte est ouverte !
-
----
-
-Tu veux que je te propose une version encore plus concise (genre *TL;DR style* pour LinkedIn ou autre), ou ça te va comme ça ?
