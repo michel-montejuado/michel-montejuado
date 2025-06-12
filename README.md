@@ -1,7 +1,3 @@
-Parfait, je vais intégrer mes suggestions directement dans ton texte initial tout en gardant ton ton chaleureux, accessible et légèrement détendu. Voici la version enrichie :
-
----
-
 👋 Salut ! Moi c’est Michel — ingénieur logiciel fullstack et explorateur créatif. J’aime transformer les idées en applications robustes et intuitives, que ce soit côté backend, interface ou bidouillage de nouveaux frameworks. J’aime résoudre des problèmes concrets, avec pour objectif de rendre la technologie un peu plus humaine et accessible.
 
 🛠️ Ma boîte à outils inclut Java, C#, JavaScript, TypeScript, HTML, CSS et SQL. J’aime passer de l’un à l’autre selon les besoins du moment, et je prends plaisir à voir comment chaque pièce du puzzle s’assemble. Que ce soit pour construire des APIs scalables ou des interfaces interactives, je suis souvent plongé dans le code, toujours avec l’envie de rendre les choses plus fluides, plus rapides, et plus claires.
