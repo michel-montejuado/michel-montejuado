@@ -2,11 +2,6 @@
 
 🛠️ Ma boîte à outils inclut Java, C#, JavaScript, TypeScript, HTML, CSS et SQL. J’aime passer de l’un à l’autre selon les besoins du moment, et je prends plaisir à voir comment chaque pièce du puzzle s’assemble. Que ce soit pour construire des APIs scalables ou des interfaces interactives, je suis souvent plongé dans le code, toujours avec l’envie de rendre les choses plus fluides, plus rapides, et plus claires.
 
-🚀 Quelques-uns de mes projets du moment :
-
-* [socle-commun/simple-picto](https://github.com/socle-commun/simple-picto) : Rendre la communication plus accessible, un pictogramme à la fois. Ce projet propose des visuels simples pour faciliter les échanges, notamment pour les personnes en situation de handicap ou d’apprentissage.
-* [socle-commun/pick-n-talk](https://github.com/socle-commun/pick-n-talk) : Donner vie aux conversations grâce à des technologies interactives — un petit coup de pouce numérique pour se comprendre et se connecter autrement.
-
 🌱 Je suis en apprentissage permanent : je teste de nouveaux outils, je lis pas mal sur les architectures modernes, et j’essaie de toujours écrire un code propre et maintenable. J’aime aussi partager mes trouvailles, documenter ce que je fais et contribuer à des projets qui ont du sens.
 
 🎵 En dehors du code, la musique est mon terrain de jeu. Je compose, je produis, j’expérimente avec les sons comme je le fais avec les idées. J’aime ce moment où la structure et l’improvisation se rencontrent pour créer quelque chose d’unique — un peu comme quand on code une appli qui fait vraiment mouche.
